@@ -4,5 +4,8 @@ public class Hello {
         // more changes
         //i am ready to commit this
 
+        //EU IS AWESOME
+        //EU3 IS LEARNING HOW TO
+
     }
 }
